@@ -15,7 +15,7 @@ namespace School.Model
             Students = new List<Student>();
         }
 
-        
+        // test
         public string NameClass { get; set; }
         public Teacher Teacher { get; set; }
         List<Student> Students { get; set; }
